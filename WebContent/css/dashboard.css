@@ -1,0 +1,26 @@
+.sidebar {
+	background-color: #091c47;
+}
+
+.contenido {
+	background-color: green;
+	position: absolute;
+	margin-left: 100px;
+}
+
+#cupon {
+	visibility: hidden;
+}
+
+#contraOlvidada {
+	color: red;
+}
+
+#contenedor-ofertas {
+	width: 100%;
+}
+
+#ofertas {
+	width: 80%;
+	margin: 0 auto;
+}
