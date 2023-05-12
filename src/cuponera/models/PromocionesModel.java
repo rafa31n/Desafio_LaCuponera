@@ -3,7 +3,6 @@ package cuponera.models;
 import cuponera.beans.CuponesBeans;
 import cuponera.beans.PromocionesBeans;
 
-import java.security.SecureRandom;
 import java.sql.Date;
 import java.sql.SQLException;
 import java.time.LocalDate;

@@ -6,9 +6,7 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import cuponera.beans.Cargo;
 import cuponera.beans.Rubros;
-import cuponera.beans.Usuarios;
 
 public class RubrosModel extends Conexion {
 
